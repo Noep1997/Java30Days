@@ -2,7 +2,6 @@ import java.util.*;
 import java.math.*;
 
 public class Arithmetic {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double mealCost = scan.nextDouble(); // original meal price

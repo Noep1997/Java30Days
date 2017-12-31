@@ -5,9 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         // get number of strings
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();

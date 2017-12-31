@@ -1,4 +1,3 @@
-//Write your code here
 class Calculator implements AdvancedArithmetic {
     public int divisorSum(int n) {
         int sum = 0;

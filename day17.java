@@ -1,4 +1,3 @@
-//Write your code here
 class Calculator {
     // method power
     int power(int n, int p) throws Exception {

@@ -1,5 +1,4 @@
 public class Solution {
-    // Write your code here.
     Stack<Character> stack = new Stack<Character>();
     Queue<Character> queue = new LinkedList<Character>();
 
@@ -17,3 +16,4 @@ public class Solution {
         {
         return queue.remove();
     }
+}

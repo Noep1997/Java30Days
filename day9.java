@@ -5,10 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
     static int factorial(int n) {
-        // Complete this function
-        // Recursive Case
         if (n > 1) {
             return n * factorial(n - 1);
         }

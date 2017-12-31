@@ -1,5 +1,4 @@
-public static  Node insert(Node head,int data) {
-    //Complete this method
+public static  Node insert(Node head, int data) {
     if (head == null) {
         head = new Node(data);
         head.data = data;

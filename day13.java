@@ -1,4 +1,3 @@
-// Declare your class here. Do not use the 'public' access modifier.
 class MyBook extends Book {
     // Declare the price instance variable
     int bookPrice;

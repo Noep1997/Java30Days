@@ -1,4 +1,4 @@
-class Student extends Person{
+class Student extends Person {
 	private int[] testScores;
 
     /*
@@ -19,7 +19,6 @@ class Student extends Person{
     *   Method Name: calculate
     *   @return A character denoting the grade.
     */
-    // Write your method here
     char calculate() {
         // calculate the mean
         double mean = 0;

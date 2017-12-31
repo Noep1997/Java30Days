@@ -5,9 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
     public static void main(String[] args) {
-        /* Enter your code here. */
         Scanner scan = new Scanner(System.in);
         int T = scan.nextInt();
 
@@ -17,7 +15,6 @@ public class Solution {
 
             if (n == 1)
                 System.out.println("Not prime");
-
             else {
                 for (int j = 2; j * j <= n; j++) {
                     if (n % j == 0)

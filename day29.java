@@ -5,9 +5,8 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
 		for (int tc = 0; tc < T; tc++) {
 			int N = sc.nextInt();
